@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.pmdm.segundaapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.pmdm.segundaapp"
